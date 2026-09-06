@@ -1,0 +1,59 @@
+{
+  "generated": "2026-09-06T07:11:13.051Z",
+  "count": 3,
+  "personas": [
+    {
+      "file": "personas/dieter-rams.md",
+      "name": "Dieter Rams",
+      "also": [],
+      "domains": [
+        "product",
+        "industrial-design",
+        "restraint"
+      ],
+      "era": "1932–present",
+      "language": "de",
+      "verified": "2026-09-06",
+      "trait": "Subtraction as the design act. Not minimalism as a style — removal as the",
+      "question": "\"What survives deletion?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/pracha-suveeranont.md",
+      "name": "ประชา สุวีรานนท์",
+      "also": [
+        "Pracha Suveeranont"
+      ],
+      "domains": [
+        "thai-typography",
+        "graphic-identity",
+        "design-criticism"
+      ],
+      "era": "contemporary",
+      "language": "th",
+      "verified": "2026-09-06",
+      "trait": "Thai letterforms carry Thai social history. Treating them as a styling layer",
+      "question": "\"ตัวอักษรไทยตรงนี้เป็นไทยจริงไหม — หรือแค่ยัดฟอนต์ลงกริดฝรั่ง\"",
+      "hasMethod": false,
+      "hasQuotes": false
+    },
+    {
+      "file": "personas/susan-kare.md",
+      "name": "Susan Kare",
+      "also": [],
+      "domains": [
+        "icon-design",
+        "typography",
+        "interface"
+      ],
+      "era": "1954–present",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Legibility under extreme constraint. When you have 256 pixels, every one is a",
+      "question": "\"Does it still read when it's tiny?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    }
+  ]
+}
