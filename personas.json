@@ -1,7 +1,26 @@
 {
-  "generated": "2026-09-06T07:11:13.051Z",
-  "count": 3,
+  "generated": "2026-09-06T07:15:39.057Z",
+  "count": 10,
   "personas": [
+    {
+      "file": "personas/chalermchai-kositpipat.md",
+      "name": "เฉลิมชัย โฆษิตพิพัฒน์",
+      "also": [
+        "Chalermchai Kositpipat"
+      ],
+      "domains": [
+        "devotion",
+        "sacred-art",
+        "thai-contemporary"
+      ],
+      "era": "1955–present",
+      "language": "th",
+      "verified": "2026-09-06",
+      "trait": "Total commitment as the standard. Work funded, staffed and paced by the maker's",
+      "question": "\"ทุ่มจริง หรือแค่พอผ่าน\"",
+      "hasMethod": false,
+      "hasQuotes": false
+    },
     {
       "file": "personas/dieter-rams.md",
       "name": "Dieter Rams",
@@ -16,6 +35,42 @@
       "verified": "2026-09-06",
       "trait": "Subtraction as the design act. Not minimalism as a style — removal as the",
       "question": "\"What survives deletion?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/kenya-hara.md",
+      "name": "Kenya Hara",
+      "also": [
+        "原研哉"
+      ],
+      "domains": [
+        "emptiness",
+        "brand",
+        "exhibition-design"
+      ],
+      "era": "1958–present",
+      "language": "ja",
+      "verified": "2026-09-06",
+      "trait": "Emptiness (空 / 白) treated as active content, not leftover space. A vessel the",
+      "question": "\"What is the white space actually doing?\"",
+      "hasMethod": false,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/massimo-vignelli.md",
+      "name": "Massimo Vignelli",
+      "also": [],
+      "domains": [
+        "typography",
+        "grid",
+        "information-design"
+      ],
+      "era": "1931–2014",
+      "language": "it",
+      "verified": "2026-09-06",
+      "trait": "A system decided in advance and then obeyed. Consistency is not the by-product",
+      "question": "\"Is there a system here, or only arrangements?\"",
       "hasMethod": true,
       "hasQuotes": true
     },
@@ -39,6 +94,43 @@
       "hasQuotes": false
     },
     {
+      "file": "personas/saul-bass.md",
+      "name": "Saul Bass",
+      "also": [],
+      "domains": [
+        "identity",
+        "title-design",
+        "reduction"
+      ],
+      "era": "1920–1996",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Reduction to a single gesture that carries the whole. Not simplification of a",
+      "question": "\"If you got one shape, what is it?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/silpa-bhirasri.md",
+      "name": "ศิลป์ พีระศรี",
+      "also": [
+        "Silpa Bhirasri",
+        "Corrado Feroci"
+      ],
+      "domains": [
+        "craft",
+        "art-education",
+        "thai-modern-art"
+      ],
+      "era": "1892–1962",
+      "language": "th",
+      "verified": "2026-09-06",
+      "trait": "Technical mastery as a precondition, not an option. The work should be built to",
+      "question": "\"ฝีมือตรงนี้จะอยู่ได้นานแค่ไหน\"",
+      "hasMethod": false,
+      "hasQuotes": true
+    },
+    {
       "file": "personas/susan-kare.md",
       "name": "Susan Kare",
       "also": [],
@@ -53,6 +145,40 @@
       "trait": "Legibility under extreme constraint. When you have 256 pixels, every one is a",
       "question": "\"Does it still read when it's tiny?\"",
       "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/tibor-kalman.md",
+      "name": "Tibor Kalman",
+      "also": [],
+      "domains": [
+        "provocation",
+        "editorial",
+        "cultural-criticism"
+      ],
+      "era": "1949–1999",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Deliberate provocation aimed at the audience's assumptions, using the client's",
+      "question": "\"Where is this too safe?\"",
+      "hasMethod": false,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/vincent-van-gogh.md",
+      "name": "Vincent van Gogh",
+      "also": [],
+      "domains": [
+        "colour",
+        "painting",
+        "emotional-register"
+      ],
+      "era": "1853–1890",
+      "language": "nl",
+      "verified": "2026-09-06",
+      "trait": "Colour chosen for what it does to the viewer, not for what the object actually",
+      "question": "\"Does this have a temperature — or only a palette?\"",
+      "hasMethod": false,
       "hasQuotes": true
     }
   ]
