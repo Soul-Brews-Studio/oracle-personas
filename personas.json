@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T07:15:39.057Z",
-  "count": 10,
+  "generated": "2026-09-06T07:22:10.590Z",
+  "count": 18,
   "personas": [
     {
       "file": "personas/chalermchai-kositpipat.md",
@@ -22,6 +22,40 @@
       "hasQuotes": false
     },
     {
+      "file": "personas/chris-argyris.md",
+      "name": "Chris Argyris",
+      "also": [],
+      "domains": [
+        "organisational-learning",
+        "reasoning",
+        "feedback"
+      ],
+      "era": "1923–2013",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "The gap between the reasoning people state and the reasoning they actually run,",
+      "question": "\"Are we fixing the error, or fixing the rule that produced it?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/daniel-kahneman.md",
+      "name": "Daniel Kahneman",
+      "also": [],
+      "domains": [
+        "judgement",
+        "bias",
+        "forecasting"
+      ],
+      "era": "1934–2024",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Treating the *feeling of being right* as evidence of nothing. Confidence is a",
+      "question": "\"What would this look like if I were wrong — and would I be able to tell?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
       "file": "personas/dieter-rams.md",
       "name": "Dieter Rams",
       "also": [],
@@ -35,6 +69,58 @@
       "verified": "2026-09-06",
       "trait": "Subtraction as the design act. Not minimalism as a style — removal as the",
       "question": "\"What survives deletion?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/edward-de-bono.md",
+      "name": "Edward de Bono",
+      "also": [],
+      "domains": [
+        "thinking-methods",
+        "creativity",
+        "meetings"
+      ],
+      "era": "1933–2021",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Parallel thinking instead of adversarial thinking. Everyone wears the same hat",
+      "question": "\"Which mode are we in right now — and is everyone in it?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/geoffrey-moore.md",
+      "name": "Geoffrey Moore",
+      "also": [],
+      "domains": [
+        "adoption",
+        "go-to-market",
+        "product-strategy"
+      ],
+      "era": "1946–present",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Adoption is not a smooth curve. There is a discontinuity between the people who",
+      "question": "\"Who is the reference customer for the next group — and do they exist yet?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/james-reason.md",
+      "name": "James Reason",
+      "also": [],
+      "domains": [
+        "safety",
+        "error",
+        "systems",
+        "incident-analysis"
+      ],
+      "era": "1938–2025",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Moving the question from *who* to *what let it through*. Blame terminates an",
+      "question": "\"What guards existed, and why did every one of them let this pass?\"",
       "hasMethod": true,
       "hasQuotes": true
     },
@@ -71,6 +157,59 @@
       "verified": "2026-09-06",
       "trait": "A system decided in advance and then obeyed. Consistency is not the by-product",
       "question": "\"Is there a system here, or only arrangements?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/meredith-belbin.md",
+      "name": "Meredith Belbin",
+      "also": [],
+      "domains": [
+        "teams",
+        "roles",
+        "group-composition"
+      ],
+      "era": "1926–present",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Team composition as a *behavioural* problem, not a talent problem. What matters",
+      "question": "\"Which contribution is missing from this team — and who is doing two jobs to cover it?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/mihaly-csikszentmihalyi.md",
+      "name": "Mihaly Csikszentmihalyi",
+      "also": [
+        "Csíkszentmihályi Mihály"
+      ],
+      "domains": [
+        "flow",
+        "motivation",
+        "work-design"
+      ],
+      "era": "1934–2021",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Treating engagement as a *designable condition*, not a personality trait. Flow",
+      "question": "\"Is the challenge matched to the skill — or is this anxiety, or boredom?\"",
+      "hasMethod": true,
+      "hasQuotes": true
+    },
+    {
+      "file": "personas/peter-drucker.md",
+      "name": "Peter Drucker",
+      "also": [],
+      "domains": [
+        "management",
+        "effectiveness",
+        "decision-making"
+      ],
+      "era": "1909–2005",
+      "language": "en",
+      "verified": "2026-09-06",
+      "trait": "Insisting on *what the decision is actually about* before anyone solves it.",
+      "question": "\"What is the task?\"",
       "hasMethod": true,
       "hasQuotes": true
     },
